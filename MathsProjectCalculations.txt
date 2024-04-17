@@ -30,17 +30,17 @@ return result;
 
 Investment Calculations for each stock
 Apple:
-lowest point in last 3 months - 0.56%
-highest point in last 3 months - 0.97%
+lowest point - 0.56%
+highest point - 0.97%
 Microsoft:
-lowest point in last 3 months - 2.62%
-highest point in last 3 months - 16.43%
+lowest point - 2.62%
+highest point- 16.43%
 Tesla:
-lowest point in last 3 months - 17.6%
-highest point in last 3 months - 29.1%
+lowest point- 17.6%
+highest point - 29.1%
 Netflix:
-lowest point in last 3 months - 1.1%
-highest point in last 3 months - 49.7%
+lowest point- 1.1%
+highest point- 49.7%
 
 How the investment was calculated was done by using the random number genrator to pick a number between highest and lowest 
 and then multiply that by the amount that was originally invested
